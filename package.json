@@ -1,0 +1,23 @@
+{
+  "name": "talk-a-tive",
+  "version": "1.0.0",
+  "description": "chat application",
+  "homepage": "https://github.com/MehakCoder/chat-applicatiuon#readme",
+  "bugs": {
+    "url": "https://github.com/MehakCoder/chat-applicatiuon/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MehakCoder/chat-applicatiuon.git"
+  },
+  "license": "ISC",
+  "author": "Mehak Chopra",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
